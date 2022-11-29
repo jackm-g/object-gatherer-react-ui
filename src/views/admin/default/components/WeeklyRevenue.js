@@ -41,7 +41,7 @@ export default function WeeklyRevenue(props) {
           fontSize='xl'
           fontWeight='700'
           lineHeight='100%'>
-          Weekly Revenue
+          Meaningless Chart 2
         </Text>
         <Button
           align='center'
